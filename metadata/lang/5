@@ -1,7 +1,7 @@
 {
   "id": 5,
   "name": "C",
-  "description": "",
-  "external_url": "",
-  "image": ""
+  "description": "C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system.",
+  "external_url": "http://www.open-std.org/jtc1/sc22/wg14/",
+  "image": "https://w.namu.la/s/94a1932d38d211d6264df6ac3569b697ef4a6a936fb6fa296f65c891a3a311f5d99a8cf7ba891c9370b7c79e2b060044cca244f6f9b2f5a1460f00c67496a58ae9e957e054fc640decbfc25fefb5513621b020f5ca83a56e224ba6d3900cd6f0"
 }
