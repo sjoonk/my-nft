@@ -1,0 +1,6 @@
+{
+  "name": "Go",
+  "description": "Go is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson.",
+  "external_url": "https://go.dev",
+  "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+}
