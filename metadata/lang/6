@@ -1,7 +1,6 @@
 {
-  "id": 6,
   "name": "C++",
-  "description": "",
-  "external_url": "",
-  "image": ""
+  "description": "C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language with Classes.",
+  "external_link": "https://isocpp.org",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png"
 }
